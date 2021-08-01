@@ -1,0 +1,2 @@
+TheIsland.ark filter=lfs diff=lfs merge=lfs -text
+TheIsland_AntiCorruptionBackup.bak filter=lfs diff=lfs merge=lfs -text
